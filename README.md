@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Dinamis -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20,30&height=220&section=header&text=Halo,%20Saya%20[Nama%20Kamu]!%20👋&fontSize=36&fontAlignY=38&desc=Software%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20,30&height=220&section=header&text=Halo,%20Saya%20Alsahera%20👋&fontSize=36&fontAlignY=38&desc=Software%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=62&descAlign=50" width="100%"/>
 
   <!-- Teks Ketik Beranimasi (Typing SVG) -->
   <a href="https://git.io/typing-svg">
